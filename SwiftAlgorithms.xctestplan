@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "2FFB9D05-7510-4ABD-B7AF-2C43113D491D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftAlgorithms.xcodeproj",
+        "identifier" : "AFAB01AB2CC2D66B00C6D2F1",
+        "name" : "SwftAlgorithmsTesting"
+      }
+    }
+  ],
+  "version" : 1
+}
